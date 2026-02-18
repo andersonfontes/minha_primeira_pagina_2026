@@ -1,0 +1,12 @@
+DESAFIO:
+
+neste desafio voce devera padronizar ainda mais as paginas ja feitas:
+
+- criar uma pasta chama img para colocar as imagens
+- mover para esta pasta a imagem empresa.jpg que esta na raiz do projeto
+- baixar as imagens que estao sendo mostradas no site index, renomear e colocar tb na pasta img
+- abra as imagens no paint e reduza-as para o tamanho final desejado
+- criar na pagina HOME um link para a pagina SOBRE NÓS
+
+- faça o upload e o commit no repositorio GitHub
+(eu ja tenho o link do repo e da pagina publicada 😉)
