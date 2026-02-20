@@ -2,6 +2,7 @@ body {
     background-color: beige;
     color: brown;
     font-family: Impact;
+    margin-left: 100px;
 }
 
 h1 {
@@ -52,5 +53,13 @@ h6 {
 
 #desafio { 
     color: #828282 
+}
+
+#pc {
+    width: 500px;
+    margin-top: 80px;
+    border-width: 20px;
+    border-color: blue;
+    border-style:solid ;    
 }
 
